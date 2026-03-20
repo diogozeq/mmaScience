@@ -19,7 +19,6 @@
    - [Dados Frios — Detalhamento Luta a Luta](#dados-frios----detalhamento-luta-a-luta)
    - [Análise Técnica](#analise-tecnica)
    - [Brechas e Insights](#brechas-e-insights)
-   - [Visão do Analista](#visao-do-analista)
 3. [Análise Round a Round — Jack Della Maddalena](#capitulo-3-analise-round-a-round--jack-della-maddalena)
    - [Perfil Geral](#jdm-rar-perfil-geral)
    - [Dados Frios — Médias por Round](#jdm-rar-medias-por-round)
@@ -28,7 +27,6 @@
    - [Dados Frios — Detalhamento Luta a Luta](#jdm-rar-detalhamento)
    - [Análise Técnica](#jdm-rar-analise-tecnica)
    - [Brechas e Insights](#jdm-rar-brechas)
-   - [Visão de Coach](#jdm-rar-visao-de-coach)
 4. [Análise Subjetiva Luta a Luta — Jack Della Maddalena](#capitulo-4-analise-subjetiva-luta-a-luta--jack-della-maddalena)
    - [Médias de Carreira](#medias-de-carreira)
    - [Resumo do Recorte](#resumo-do-recorte)
@@ -40,7 +38,7 @@
    - [Onde Ele é Extremo na Categoria](#prates-onde-ele-e-extremo-na-categoria)
    - [O Paradoxo das Vitórias e Derrotas](#prates-o-paradoxo-das-vitorias-e-derrotas)
    - [Padrões de Contexto](#prates-padroes-de-contexto)
-   - [O Modelo APM vs a Realidade](#prates-o-modelo-apm-vs-a-realidade) (inclui Discovery V6)
+   - [O Modelo Ajustado vs a Realidade](#prates-o-modelo-apm-vs-a-realidade) (inclui modelo atualizado)
    - [Lutas Anômalas](#prates-lutas-anomalas)
    - [Sinais Fracos Combinados](#prates-sinais-fracos-combinados)
    - [Visão do Analista](#prates-visao-do-analista)
@@ -48,10 +46,11 @@
    - [Onde Ele é Extremo na Categoria](#jdm-onde-ele-e-extremo-na-categoria)
    - [O Paradoxo das Vitórias e Derrotas](#jdm-o-paradoxo-das-vitorias-e-derrotas)
    - [Padrões de Contexto](#jdm-padroes-de-contexto)
-   - [O Modelo APM vs a Realidade](#jdm-o-modelo-apm-vs-a-realidade) (inclui Discovery V6)
+   - [O Modelo Ajustado vs a Realidade](#jdm-o-modelo-apm-vs-a-realidade) (inclui modelo atualizado)
    - [Lutas Anômalas](#jdm-lutas-anomalas)
    - [Sinais Fracos Combinados](#jdm-sinais-fracos-combinados)
    - [Visão do Analista](#jdm-visao-do-analista)
+7. [Resumo Final — Melhores Ações para o Prates](#capitulo-7-resumo-final--melhores-acoes-para-o-prates)
 
 ---
 
@@ -314,22 +313,6 @@
 
 **4.** Tentativas de queda dos oponentes sobem de 2.0/5min (R1) para 7.0/5min (R4), com defesa caindo de 87% para 71%. Pressão de wrestling escala com o tempo e a resposta defensiva não acompanha.
 
-### Visão do Analista
-
-#### Se eu fosse da equipe adversária:
-- Sobreviver R1 e R2 sem ser nocauteado -- todos os 9 knockdowns da carreira ocorreram nesses rounds, e o poder de finalização desaparece a partir do R3. *(especulação)*
-- Wrestling a partir do R3: defesa de queda cai e controle do oponente domina historicamente. *(especulação)*
-- Leg kicks disciplinados no R1 -- oponentes que atacam pernas no R1 (média 41%) mantêm saldo competitivo; nos rounds tardios a troca se concentra em cabeça e o saldo piora. *(especulação)*
-- Intensificar tentativas de queda no R4 -- precisão de striking dele no ponto mais baixo (36%) e defesa de queda em queda: janela dupla. *(especulação)*
-- Forçar clinch nos rounds iniciais -- 96-98% dos golpes de Prates nos R1-R2 são a distância. *(especulação)*
-
-#### Se eu fosse da equipe do Carlos Prates:
-- Priorizar finalização nos primeiros 10 minutos -- 6/6 vitórias por KO/TKO nos rounds 1-2; única luta que passou disso terminou em derrota. *(especulação)*
-- Variação de alvos no R1 como setup -- distribuição equilibrada entre cabeça (42%), corpo (20%) e perna (38%) no primeiro round precede os knockdowns. *(especulação)*
-- Desenvolver ground-and-pound do R5 contra Garry como plano B -- 55% dos golpes do chão naquele round mostram aptidão, mas amostra mínima. *(especulação)*
-- Reforçar defesa de queda para rounds tardios -- queda de 87% (R1) para 33-71% (R3-R4) é o ponto mais explorável do perfil. *(especulação)*
-- Manter aceleração no R2 -- variação de volume R1→R2 consistentemente positiva (+2.1/min), coincidindo com os knockdowns. *(especulação)*
-
 ---
 
 ## Capítulo 3: Análise Round a Round — Jack Della Maddalena
@@ -480,22 +463,6 @@
 
 **5.** Contra Holland: saldo de -1.5/min (único negativo entre vitórias) com controle adversário 0%. Pressão de volume à distância, sem grappling, é o cenário mais difícil entre oponentes que ficam em pé.
 
-### Visão de Coach
-
-#### Se eu fosse da equipe adversária:
-- Takedowns no R2: defesa de TD mais alta (75%) mas volume de striking dele no ponto mais baixo -- janela de queda com menor retaliação *(especulação)*.
-- Pressionar no R4: saldo de striking vira negativo (-0.4/min) e precisão cai a 33% -- vale de performance entre R3 e R5, com base nas 2 lutas disponíveis.
-- Clinch e chão a partir do R3: controle adversário escala de 22% (R1) até 63% (R5), defesa de TD chega a 0% nos rounds finais.
-- Atacar corpo nos rounds iniciais -- ele recebe 19% no corpo no R1, mas oponentes abandonam essa via tardiamente (4% no R5) *(especulação)*.
-- Evitar troca à distância nos rounds iniciais -- saldo dele no R1 é +2.5/min com 1.0 KD/5min *(especulação)*.
-
-#### Se eu fosse da equipe do Della Maddalena:
-- Defesa de TD específica para rounds 4-5 -- queda de 75% (R2) para 0% (R5) indica necessidade de condicionamento para championship rounds, com base nas 2 lutas disponíveis.
-- R3 como round de finalização: precisão no pico (56%), saldo de +2.6/min, knockdowns aparecem (0.3/5min) *(especulação)*.
-- Manter variedade de alvos nos rounds tardios -- no R4 corpo cai a 6% e perna sobe a 53%, facilitando leitura defensiva do oponente *(especulação)*.
-- Se não finalizar no R1 (4/9 lutas terminaram ali), aceitar transição para luta tática -- R2 com menor output mas maior precisão mostra que o ajuste funciona.
-- Desenvolver takedown ofensivo -- média de 0.0/5min nos R1-R2 em 9 lutas. Essa dimensão pode aliviar pressão de grappling defensivo nos rounds tardios *(especulação)*.
-
 ---
 
 ## Capítulo 4: Análise Subjetiva Luta a Luta — Jack Della Maddalena
@@ -508,13 +475,13 @@
 | Golpes Sig. Absorvidos/min | 3.84 |
 | Precisão Striking | 51% |
 | Defesa Striking | 63% |
-| Knockdowns/5min | 0.0 |
+| Knockdowns/5min | 0.3 |
 | Quedas Aplicadas/5min | 0.04 |
 | Precisão de Quedas | 10% |
 | Defesa de Quedas | 64% |
 | Tentativas de Sub/5min | 0.03 |
 
-> Esses são os números normais dele. Nos bullets de cada luta, mostramos onde ele saiu desse padrão.
+> Base de comparação. Nos bullets de cada luta, destacamos desvios deste padrão.
 
 ---
 
@@ -688,35 +655,35 @@
 
 #### O que os dados sugerem
 
-- Jack acelera ao longo dos rounds, mas esse motor depende de tempo em pé. O ponto de desenvolvimento mais claro é a transição defesa de queda para retomada de posição -- não quedas isoladas, mas sequências.
+- Jack acelera ao longo dos rounds, mas esse rendimento depende de tempo em pé. O ponto de desenvolvimento mais claro é a transição defesa de queda para retomada de posição -- não quedas isoladas, mas sequências.
 - Precisão de 51% de média, chegando a 55-61% com espaço. A qualidade do striking não é o problema; o acesso a ele é.
 
 #### Pontos de atenção
 
-- Derrota para Makhachev: 0.72/min de striking, 0% de defesa de quedas, 0 segundos de controle. Contra grapplers de elite no top 10 do meio-médio, o padrão pode se repetir.
+- Derrota para Makhachev: 0.72/min de striking, 0% de defesa de quedas, 0 segundos de controle. O recorte sugere que grapplers de elite conseguem reduzir bastante o volume dele em pé.
 - Vitória sobre Holland com saldo negativo (-1.47/min): Holland impôs 356 tentativas em 3 rounds. Um oponente com volume alto de striking combinado com grappling pode exceder a margem que Jack normalmente mantém.
 
 ---
 
 ## Capítulo 5: Insights Ocultos — Carlos Prates
 
-> **O que é o modelo APM?** Quando olhamos os números brutos de um lutador (precisão, defesa, volume), eles misturam a habilidade dele com a qualidade dos adversários que ele enfrentou. O modelo APM (Adjusted Performance Metrics) separa essas duas coisas: desconta o efeito do oponente e mostra o que é habilidade real do lutador vs o que é inflado ou deflacionado pelos caras que ele cruzou. "Top X%" significa que ele está entre os melhores da divisão naquela métrica quando se tira o efeito dos oponentes. "Bottom X%" é o contrário.
+> **Como funciona o modelo ajustado?** Quando olhamos os números brutos de um lutador (precisão, defesa, volume), eles misturam a habilidade dele com a qualidade dos adversários que enfrentou. O modelo ajustado separa essas duas coisas: desconta o efeito do oponente e mostra o que é habilidade real do lutador vs o que é inflado ou deflacionado pelos caras que ele cruzou. Exemplo: se um lutador tem 60% de precisão mas só enfrentou oponentes com defesa fraca, a precisão real dele é menor. O modelo corrige isso. Nos rankings abaixo, "entre os X% melhores" significa que, descontando o efeito dos oponentes, ele é melhor que a maioria da divisão naquela métrica. "Entre os X% piores" é o contrário.
 
 <a name="prates-onde-ele-e-extremo-na-categoria"></a>
 ### Onde Ele é Extremo na Categoria (Peso Meio-Médio)
 
-Métricas onde Prates está no top 10% ou bottom 10% da divisão — e que nenhum outro relatório menciona diretamente.
+Métricas onde Prates está entre os 10% melhores ou 10% piores da divisão — e que nenhum outro relatório menciona diretamente.
 
 | Métrica | Valor | Posição | N da Categoria |
 |---------|-------|---------|----------------|
-| Knockdowns/5min | 0.7 | Top 5% | 84 |
-| Tentativas de queda (carreira UFC) | 1 | Bottom 5% | 84 |
-| Golpes no clinch (total UFC) | 2 | Bottom 8% | 84 |
-| Finalizações/5min | 0.0 | Bottom absoluto | 84 |
+| Knockdowns/5min | 0.7 | Entre os 5% melhores | 84 |
+| Tentativas de queda (carreira UFC) | 1 | Entre os 5% piores | 84 |
+| Golpes no clinch (total UFC) | 2 | Entre os 8% piores | 84 |
+| Finalizações/5min | 0.0 | Último da divisão | 84 |
 
 **O que isso revela:**
 
-- Taxa de KD no top 5% combinada com bottom 5% em tentativas de queda. O poder de nocaute substitui o wrestling ofensivo.
+- Taxa de KD melhor que 95% da divisão combinada com quase nenhuma tentativa de queda (só 5% da divisão tenta menos). O poder de nocaute substitui o wrestling ofensivo.
 - 2 golpes no clinch em 7 lutas UFC, 0 finalizações tentadas. Opera numa faixa de distância específica e raramente se desvia.
 
 ---
@@ -730,7 +697,7 @@ Métricas que se comportam ao contrário do esperado quando ele ganha vs quando 
 |---------|---------------------|---------------------|-------|-----------------|
 | Golpes sig. absorvidos/min | 5.5/min | 4.9/min | 1.1x | Menor é melhor |
 | Defesa de striking | 44% | 48% | 0.9x | Maior é melhor |
-| Volume sig. (total) | 127 | 182 | 0.7x | Maior é melhor |
+| Média sig. acertos/luta | 29 | 63 | 0.5x | Maior é melhor |
 | % golpes na cabeça | 38% | 54% | 0.7x | Neutro |
 | % golpes nas pernas | 32% | 24% | 1.3x | Neutro |
 | Defesa de queda | 95% | 87% | 1.1x | Maior é melhor |
@@ -739,7 +706,7 @@ Métricas que se comportam ao contrário do esperado quando ele ganha vs quando 
 
 - Absorve mais golpes quando ganha (5.5/min vs 4.9/min) e com defesa pior (44% vs 48%). Aceita trocação aberta como parte do jogo; quando o adversário evita a troca, perde acesso ao contragolpe.
 - Vitórias: distribuição equilibrada entre cabeça (38%), corpo (29%) e pernas (32%). Derrota: 54% na cabeça. Diversificação de alvos precede as vitórias.
-- Volume de 127 golpes nas vitórias vs 182 na derrota (0.7x). Vence com menos golpes -- resultado depende de timing e potência, não de volume.
+- Média de 29 golpes sig. por luta nas vitórias vs 63 na derrota (0.5x). Vence com menos golpes -- resultado depende de timing e potência, não de volume. A derrota (5 rounds vs Garry) inflou o volume pelo tempo de luta.
 
 ---
 
@@ -775,70 +742,68 @@ Métricas que se comportam ao contrário do esperado quando ele ganha vs quando 
 ---
 
 <a name="prates-o-modelo-apm-vs-a-realidade"></a>
-### O Modelo APM vs a Realidade
+### O Modelo Ajustado vs a Realidade
 
-> **Nota metodologica:** Os rankings APM abaixo foram gerados com Ridge alpha=50. O pipeline Discovery V6 (Ridge alpha=5 + Bradley-Terry + PageRank) substituiu esse modelo com resultados significativamente melhores (9-12% de reducao de variancia vs 0% do anterior). Os rankings APM abaixo sao indicativos de direcao mas os valores exatos devem ser lidos com cautela. Os achados do Discovery V6 estao na subsecao seguinte.
-
-Cruzamento entre o modelo de normalização por adversário e os dados brutos.
+Cruzamento entre o modelo ajustado por adversário e os dados brutos.
 
 #### O Grande Paradoxo: Precisão e Defesa Invertidas
 
-| Métrica | Valor Bruto | Ranking APM Ajustado | Efeito dos Oponentes |
+| Métrica | Valor Bruto | Ranking Ajustado | Efeito dos Oponentes |
 |---------|-------------|---------------------|---------------------|
-| Precisão de striking | 53% | Bottom 4% | Top 1% (oponentes inflam) |
-| Defesa de striking | 44% | Top 4% | Médio (oponentes são precisos) |
-| Golpes sig./min | 4.0/min | Bottom 4% | Top 16% (oponentes inflam) |
+| Precisão de striking | 53% | Entre os 4% piores | Adversários cedem muita precisão (entre os 1% que mais cedem) |
+| Defesa de striking | 44% | Entre os 4% melhores | Médio (oponentes são precisos) |
+| Golpes sig./min | 4.0/min | Entre os 4% piores | Adversários cedem volume acima da média (entre os 16% que mais cedem) |
 
-- Precisão bruta de 53% cai para bottom 4% após ajuste -- oponentes concedem alta precisão a qualquer um (efeito top 1%). A precisão real é menor do que os números brutos sugerem.
-- Defesa bruta de 44% sobe para top 4% após ajuste -- oponentes são strikers precisos acima da média. A defesa é melhor do que os números crus indicam.
-- Volume de 4.0/min bruto cai para bottom 4% após ajuste. Não é lutador de volume quando se corrige pela qualidade dos oponentes.
+- Precisão bruta de 53% cai para entre os 4% piores da divisão após ajuste -- oponentes concedem alta precisão a qualquer um. A precisão real é menor do que os números brutos sugerem.
+- Defesa bruta de 44% sobe para entre os 4% melhores após ajuste -- oponentes são strikers precisos acima da média. A defesa é melhor do que os números crus indicam.
+- Volume de 4.0/min bruto cai para entre os 4% piores após ajuste. Não é lutador de volume quando se desconta o efeito dos oponentes.
 
 #### O Mito do Chutador de Pernas
 
-| Métrica | Valor Bruto | Ranking APM Ajustado | Efeito dos Oponentes |
+| Métrica | Valor Bruto | Ranking Ajustado | Efeito dos Oponentes |
 |---------|-------------|---------------------|---------------------|
-| Tentativas de chute perna/min | 1.4/min | Bottom 1% | Top 14% (oponentes não checam) |
-| % golpes nas pernas | 29% | Bottom 2% | Top 3% (oponentes inflam) |
+| Tentativas de chute perna/min | 1.4/min | Entre os 1% piores | Adversários defendem pouco esse ataque (entre os 14% que mais cedem) |
+| % golpes nas pernas | 29% | Entre os 2% piores | Adversários cedem muito esse alvo (entre os 3% que mais cedem) |
 
-- Números brutos sugerem que chuta pernas com frequência, mas os oponentes não checam chutes (efeito top 14%). Após ajuste, tendência própria de atacar pernas: bottom 1% da divisão. Contra alguém que defende bem pernas, esse volume pode desaparecer.
+- Números brutos sugerem que ele chuta pernas com frequência, mas os adversários costumam defender pouco esse ataque. Após ajuste, a tendência real de atacar pernas fica entre as mais baixas da divisão. Contra alguém que defenda bem essa faixa, esse volume pode cair bastante.
 
 #### Dominância de Wrestling Defensivo
 
-| Métrica | Ranking APM Ajustado | Interpretação |
+| Métrica | Ranking Ajustado | Interpretação |
 |---------|---------------------|---------------|
-| Defesa de queda | Top 4% | Elite |
-| Saldo de quedas | Top 4% | Quase nunca é derrubado em relação ao esperado |
-| % controle de luta | Top 6% | Potencial de controle alto mas não utilizado |
+| Defesa de queda | Entre os 4% melhores | Elite |
+| Saldo de quedas | Entre os 4% melhores | Quase nunca é derrubado em relação ao esperado |
+| % controle de luta | Entre os 6% melhores | Potencial de controle alto mas não utilizado |
 
-- Coeficiente de controle de luta no top 6% (raw: 5%). Tendência a controlar existe, mas as lutas acabam antes de se materializar. Se forçado ao chão, pode ter mais recursos do que o histórico mostra.
+- Tendência de controle de luta entre os 6% melhores (valor real: 5%). A capacidade de controlar existe, mas as lutas acabam antes de se materializar. Se forçado ao chão, pode ter mais recursos do que o histórico mostra.
 
-#### Discovery V6: Poder de KD Ajustado por Qualidade do Oponente
+#### Modelo Atualizado: Poder de KD Ajustado por Qualidade do Oponente
 
-Pipeline Discovery V6 (Bayesian LOO + PageRank iterativo + Empirical Rarity): mede cada performance considerando a qualidade do oponente. Modelos Bradley-Terry e Rasch/IRT posicionam Prates como #1 a #4 em poder ofensivo de knockdown no UFC inteiro, com percentil 99.7% (PageRank score=3.09, atrás de Tom Aspinall, Manuel Torres e Uros Medic).
+Modelo estatístico atualizado que mede cada performance considerando a qualidade do oponente. Modelos de comparação par-a-par posicionam Prates como classificado #1 a #4 em poder ofensivo de knockdown no UFC inteiro (melhor que 99.7% dos lutadores, atrás apenas de Tom Aspinall, Manuel Torres e Uros Medic).
 
-**Top 5 performances positivas mais extraordinarias (Discovery Score):**
+**Top 5 performances positivas mais extraordinárias (índice de relevância):**
 
-| D Score | Metrica | Oponente | Observado | Esperado | O que significa |
+| Relevância | Metrica | Oponente | Observado | Esperado | O que significa |
 |---------|---------|----------|-----------|----------|----------------|
-| 5.04 | KD/min | Neil Magny | 0.41 | 0.16 | 2 KDs em 4.8 min contra oponente com defesa de KD 2.33x acima da media (PageRank) |
-| 4.11 | % perna | Leon Edwards | 52% | 34% | Ninguem ataca as pernas do Leon nessa taxa. Game plan cirurgico. |
-| 4.02 | KD/min | Li Jingliang | 0.33 | 0.21 | 3 KDs contra quem nunca havia caido em 62 min |
-| 2.80 | Def. queda | Geoff Neal | 100% | 76% | Defesa perfeita contra wrestlerativo |
-| 2.72 | % corpo | Trevin Giles | 49% | 26% | Mutacao tatica: abandonou a cabeca e mirou o tronco |
+| 5.04 | KD/min | Neil Magny | 0.41 | 0.16 | 2 KDs em 4.8 min contra oponente com defesa de KD 2.33x acima da média |
+| 4.11 | % perna | Leon Edwards | 52% | 34% | % de pernas 1.5x acima do esperado contra Leon, que normalmente não recebe nessa taxa |
+| 4.02 | KD/min | Li Jingliang | 0.33 | 0.21 | 3 KDs contra quem nunca havia caído em 62 min |
+| 2.80 | Def. queda | Geoff Neal | 100% | 76% | 100% de defesa contra wrestler ofensivo |
+| 2.72 | % corpo | Trevin Giles | 49% | 26% | 49% dos golpes no corpo vs 26% esperado — desvio de alvos |
 
 **O caso Prates vs Leon no KD — o que os modelos dizem:**
 
-Modelos Rasch (AUC=0.92) e Bradley-Terry indicam probabilidade de 39-59% de Prates derrubar Leon. Leon nunca havia tomado KD porque seus oponentes anteriores tinham baixo poder de KD: Belal Muhammad (bottom 15%), Colby Covington (bottom 22%), Gunnar Nelson (bottom 3%), Sean Brady (bottom 25%). Apenas Usman representava ameaça real e falhou 2x. Prates (#1-#4 em KD no UFC) tinha maioria de chance de conseguir o KD.
+Modelos de comparação par-a-par (com precisão de 92%) indicam probabilidade de 39-59% de Prates derrubar Leon. Leon nunca havia tomado KD porque seus oponentes anteriores tinham baixo poder de KD: Belal Muhammad (entre os 15% piores em KD), Colby Covington (entre os 22% piores), Gunnar Nelson (entre os 3% piores), Sean Brady (entre os 25% piores). Apenas Usman representava ameaça real e falhou 2x. Prates (#1-#4 em KD no UFC) entrava na faixa de maior probabilidade de conseguir esse KD.
 
-**Precisao vs Leon (D=2.68):** 66% de precisão contra esperado de 50%, com Leon tendo PageRank defensivo 1.16x acima da média.
+**Precisão vs Leon (relevância 2.68):** 66% de precisão contra esperado de 50%, com Leon tendo defesa 16% acima da média.
 
-**Top 5 negativos REAIS (excluindo falsos negativos de KO rapido):**
+**Top 5 piores performances reais (excluindo lutas que acabaram rápido em KO):**
 
-| D Score | Metrica | Oponente | Observado | Esperado | O que significa |
+| Relevância | Metrica | Oponente | Observado | Esperado | O que significa |
 |---------|---------|----------|-----------|----------|----------------|
-| -2.85 | Queda ritmo | Ian Machado Garry | -2.14 | -0.88 | Caiu de ritmo 2.4x mais que esperado — a unica derrota |
-| -2.63 | Controle | Charles Radtke | 1% | 17% | Sem jogo de chao mesmo vencendo |
-| -2.45 | Reversoes | Trevin Giles | 0 | 0.007/min | Nao recupera posicao quando vai ao chao |
+| -2.85 | Queda ritmo | Ian Machado Garry | -2.14 | -0.88 | Caiu de ritmo 2.4x mais que esperado — a única derrota |
+| -2.63 | Controle | Charles Radtke | 1% | 17% | Sem jogo de chão mesmo vencendo |
+| -2.45 | Reversões | Trevin Giles | 0 | 0.007/min | Não recupera posição quando vai ao chão |
 | -2.43 | Saldo quedas | Leon Edwards | -0.31 | +0.04 | Leon derrubou e controlou — vulnerabilidade real no grappling |
 | -2.06 | Def. striking | Trevin Giles | 33% | 54% | Absorveu muito golpe (mas venceu por KO) |
 
@@ -849,7 +814,7 @@ Fraquezas reais concentradas no chão: controle, reversões, queda de ritmo, def
 <a name="prates-lutas-anomalas"></a>
 ### Lutas Anômalas
 
-Lutas onde Prates agiu completamente fora do padrão — outliers no próprio histórico, detectados pelo modelo APM.
+Lutas onde Prates agiu completamente fora do padrão — desvios extremos no próprio histórico, detectados pelo modelo ajustado.
 
 | Luta | Métrica | O que aconteceu | Desvio |
 |------|---------|----------------|--------|
@@ -863,7 +828,7 @@ Lutas onde Prates agiu completamente fora do padrão — outliers no próprio hi
 
 - Contra Giles: abandonou cabeça (8% vs média de 50%), migrou para corpo (49%) e pernas. KO no R2. Variação radical de alvos como tática.
 - Contra Edwards: pernas em 52% (vs média de 25-30%). As duas maiores vitórias de prestígio envolveram desvios radicais da estratégia habitual -- indica capacidade de adaptação tática sob demanda.
-- Contra Garry: única luta com duração 2.2x acima do esperado, e única derrota. Sem toolkit equivalente quando a luta se prolonga.
+- Contra Garry: única luta com duração 2.2x acima do esperado, e única derrota. Ainda não mostrou um repertório equivalente quando a luta se prolonga.
 
 ---
 
@@ -872,46 +837,46 @@ Lutas onde Prates agiu completamente fora do padrão — outliers no próprio hi
 
 Métricas que sozinhas não chamam atenção, mas juntas formam um padrão.
 
-- **Saldo de striking negativo (-0.1/min, bottom 13% APM) + knockdowns top 5%:** Perde o jogo de volume, ganha o jogo de impacto. Saldo de striking subestima Prates porque trata todos os golpes como iguais.
+- **Saldo de striking negativo (-0.1/min, entre os 13% piores quando ajustado) + knockdowns entre os 5% melhores:** Perde o jogo de volume, ganha o jogo de impacto. Saldo de striking subestima Prates porque trata todos os golpes como iguais.
 
-- **pct_luta_lutada bottom 19% + tempo de luta bottom 32%:** Usa 1/5 do tempo disponível em média. 100% das vitórias UFC por KO/TKO, 0% por decisão. Sem histórico de vitória por outra via no UFC.
+- **% do tempo de luta utilizado entre os 19% piores + tempo de luta entre os 32% mais curtos:** Usa 1/5 do tempo disponível em média. 100% das vitórias UFC por KO/TKO, 0% por decisão. Sem histórico de vitória por outra via no UFC.
 
-- **Oponentes tentam takedowns 87% acima da média nele (Discovery) + defesa de queda top 4% APM:** Adversários sabem que precisam tirá-lo dos pés, mas quase ninguém consegue. Defesa de queda treinada para esse cenário.
+- **Oponentes tentam takedowns 87% acima da média nele + defesa de queda entre os 4% melhores quando ajustado:** Adversários sabem que precisam tirá-lo dos pés, mas quase ninguém consegue. Defesa de queda treinada para esse cenário.
 
-- **Queda de ritmo entre rounds bottom 5% APM + volume que sobe R1 para R2:** Um dos que menos perde ritmo entre rounds na divisão. R1 para leitura, R2 para execução.
+- **Queda de ritmo entre rounds entre os 5% menores da divisão + volume que sobe R1 para R2:** Um dos que menos perde ritmo entre rounds na divisão. R1 para leitura, R2 para execução.
 
 ---
 
 <a name="prates-visao-do-analista"></a>
 ### Visão do Analista
 
-- Conforme detalhado na seção APM: precisão inflada pelos oponentes (bottom 4% ajustado), defesa melhor do que parece (top 4% ajustado), e leg kicks inflados por oponentes que não checam (bottom 1% ajustado). Contra um oponente com boa defesa de striking e check de chutes, o perfil bruto não se sustenta.
+- Conforme detalhado na seção do modelo ajustado: precisão inflada pelos oponentes (entre os 4% piores quando ajustado), defesa melhor do que parece (entre os 4% melhores quando ajustado), e chutes nas pernas favorecidos por adversários que defendem pouco esse ataque (entre os 1% piores quando ajustado). Contra um oponente com boa defesa de striking e boa leitura desses chutes, os números brutos provavelmente superestimam esse lado do jogo dele.
 
-- Padrão de vitória: menos volume, mais distribuição de alvos, aceita dano. Assinatura de contragolpeador. Mas as anomalias contra Giles e Edwards mostram capacidade de mudar o plano radicalmente num dia de luta -- raro na divisão.
+- Padrão de vitória: menos volume, mais distribuição de alvos, aceita dano. Assinatura de contragolpeador. As lutas contra Giles e Edwards também mostram capacidade real de ajustar o plano de ataque quando necessário.
 
-- Se não nocautear em 2 rounds, a chance cai. Única luta longa (vs Garry, 2.2x acima do esperado) terminou em derrota. Plano B nunca foi testado com sucesso no UFC.
+- Se a luta passar dos 2 rounds, ainda há pouca evidência de um plano vencedor alternativo no UFC. A única luta longa do recorte (vs Garry, 2.2x acima do esperado) terminou em derrota.
 
 ---
 
 ## Capítulo 6: Insights Ocultos — Jack Della Maddalena
 
-> **O que é o modelo APM?** Quando olhamos os números brutos de um lutador (precisão, defesa, volume), eles misturam a habilidade dele com a qualidade dos adversários que ele enfrentou. O modelo APM (Adjusted Performance Metrics) separa essas duas coisas: desconta o efeito do oponente e mostra o que é habilidade real do lutador vs o que é inflado ou deflacionado pelos caras que ele cruzou. "Top X%" significa que ele está entre os melhores da divisão naquela métrica quando se tira o efeito dos oponentes. "Bottom X%" é o contrário.
+> **Nota:** Mesma metodologia de modelo ajustado do Capítulo 5. Os rankings abaixo mostram onde JDM se destaca ou é vulnerável quando se desconta o efeito dos oponentes.
 
 <a name="jdm-onde-ele-e-extremo-na-categoria"></a>
 ### Onde Ele é Extremo na Categoria (Peso Meio-Médio)
 
-Métricas onde Della Maddalena está no top 10% ou bottom 10% da divisão — e que nenhum outro relatório menciona diretamente.
+Métricas onde Della Maddalena está entre os 10% melhores ou 10% piores da divisão — e que nenhum outro relatório menciona diretamente.
 
 | Métrica | Valor | Posição | N da Categoria |
 |---------|-------|---------|----------------|
-| Defesa de striking (bruta) | 63% | Top 5% | 84 |
-| Vitórias no 1º round | 4 | Top 6% | 84 |
-| Vitórias por KO/TKO (carreira) | 12 | Top 9% | 84 |
+| Defesa de striking (bruta) | 63% | Entre os 5% melhores | 84 |
+| Vitórias no 1º round | 4 | Entre os 6% melhores | 84 |
+| Vitórias por KO/TKO (carreira) | 12 | Entre os 9% melhores | 84 |
 
 **O que isso revela:**
 
-- Defesa de striking bruta de 63% (top 4 da divisão) combinada com 4 vitórias no R1 (top 6%). Combinação rara de defesa e capacidade de finalização precoce.
-- Porém, a seção APM mostra que essa defesa é parcialmente inflada pela qualidade dos oponentes.
+- Defesa de striking bruta de 63% (uma das quatro melhores marcas da divisão) combinada com 4 vitórias no R1 (melhor que 94% da divisão). Combinação rara de defesa e capacidade de finalização precoce.
+- Porém, a seção do modelo ajustado mostra que essa defesa é parcialmente inflada pela qualidade dos oponentes.
 
 ---
 
@@ -922,18 +887,18 @@ Métricas que se comportam ao contrário do esperado quando ele ganha vs quando 
 
 | Métrica | Média Vitórias (n=8) | Média Derrota (n=1) | Ratio | Direção Esperada |
 |---------|---------------------|---------------------|-------|-----------------|
-| Golpes sig./min | 9.2/min | 5.3/min | 1.7x | Maior é melhor |
-| Golpes sig. absorvidos/min | 5.0/min | 3.8/min | 1.3x | Menor é melhor |
-| KD/5min | 1.3 | 0.3 | 4.3x | Maior é melhor |
-| % golpes na cabeça | 73% | 64% | 1.1x | Neutro |
-| % golpes nas pernas | 5% | 9% | 0.5x | Neutro |
-| Tentativas de queda oponente | 1.6 | 7.0 | 0.2x | Menor é melhor |
+| Golpes sig./min | 7.8/min | 0.7/min | 11.1x | Maior é melhor |
+| Golpes sig. absorvidos/min | 4.4/min | 1.2/min | 3.7x | Menor é melhor |
+| KD/5min | 1.2 | 0.0 | -- | Maior é melhor |
+| % golpes na cabeça | 67% | 56% | 1.2x | Neutro |
+| % golpes nas pernas | 9% | 11% | 0.8x | Neutro |
+| Quedas sofridas/luta | 1.8 | 4.0 | 0.4x | Menor é melhor |
 
 **O que isso revela:**
 
-- Absorve mais golpes nas vitórias (5.0/min) do que na derrota (3.8/min) -- mesmo padrão de Prates. Trocação aberta favorece ambos os lutadores.
-- Na derrota: volume a 5.3/min (menos da metade do normal de 9.2/min), absorvido a 3.8/min. A troca não aconteceu, não foi perdida.
-- Knockdowns: 3.9/min nas vitórias vs 0.9/min na derrota (queda de 4.6x). Poder de nocaute é o principal diferenciador de resultado.
+- Absorve mais golpes nas vitórias (4.4/min) do que na derrota (1.2/min) -- mesmo padrão de Prates. Trocação aberta favorece ambos os lutadores. Na derrota contra Makhachev, a troca praticamente não existiu (0.7/min de volume).
+- Knockdowns: 1.2/5min nas vitórias vs 0.0 na derrota. Poder de nocaute depende de ter tempo em pé para se materializar.
+- Quedas sofridas dobram na derrota (4.0 vs 1.8/luta). Quando o oponente derruba com consistência, o jogo de striking perde força.
 
 ---
 
@@ -958,78 +923,75 @@ Métricas que se comportam ao contrário do esperado quando ele ganha vs quando 
 **O que isso revela:**
 
 - Divisão equilibrada entre KO/TKO e decisão. Dois modos de operação distintos.
-- Finalização contra Randy Brown (GnP no R1): único método alternativo, com a única tentativa significativa de submissão da carreira (z=+2.9 APM).
+- Finalização contra Randy Brown (GnP no R1): único método alternativo, com a única tentativa significativa de submissão da carreira (desvio alto em relação ao padrão dele).
 
 ---
 
 <a name="jdm-o-modelo-apm-vs-a-realidade"></a>
-### O Modelo APM vs a Realidade
-
-> **Nota metodologica:** Os rankings APM abaixo foram gerados com Ridge alpha=50. O pipeline Discovery V6 (Ridge alpha=5 + Bradley-Terry + PageRank) substituiu esse modelo com resultados significativamente melhores. Os rankings APM abaixo sao indicativos de direcao mas os valores exatos devem ser lidos com cautela. Os achados do Discovery V6 estao na subsecao seguinte.
+### O Modelo Ajustado vs a Realidade
 
 #### O Grande Paradoxo: O Espelho Invertido de Prates
 
-| Métrica | Valor Bruto | Ranking APM Ajustado | Efeito dos Oponentes |
+| Métrica | Valor Bruto | Ranking Ajustado | Efeito dos Oponentes |
 |---------|-------------|---------------------|---------------------|
-| Precisão de striking | 54% | Top 7% | Baixo (oponentes NÃO inflam) |
-| Defesa de striking | 63% | Bottom 14% | Baixo (oponentes NÃO conectam bem) |
-| Volume total/min | 8.2/min | Top 10% | Top 14% (oponentes inflam parcialmente) |
+| Precisão de striking | 54% | Entre os 7% melhores | Baixo (adversários raramente cedem essa métrica) |
+| Defesa de striking | 63% | Entre os 14% piores | Baixo (adversários costumam acertar pouco) |
+| Volume total/min | 8.2/min | Entre os 10% melhores | Adversários cedem um pouco acima da média (entre os 14% que mais cedem) |
 
-- Precisão bruta de 54% sobe para top 7% após ajuste. Oponentes não facilitam a precisão -- habilidade própria.
-- Defesa bruta de 63% (top 5% raw) cai para bottom 14% após ajuste. Oponentes não conectam bem em geral (efeito bottom 11%). Contra strikers precisos, essa defesa pode ser significativamente pior.
-- **Espelho de Prates:** Prates tem precisão inflada + defesa genuína. Della Maddalena tem precisão genuína + defesa inflada. Vulnerabilidades opostas.
+- Precisão bruta de 54% sobe para entre os 7% melhores da divisão após ajuste. Os adversários não costumam ceder precisão -- mérito do próprio Jack.
+- Defesa bruta de 63% (entre os 5% melhores sem ajuste) cai para entre os 14% piores após ajuste. Em geral, os adversários dele acertam pouco mesmo contra outros rivais. Contra strikers precisos, essa defesa pode cair bastante.
+- **Espelho de Prates:** Prates tem precisão inflada + defesa real. Della Maddalena tem precisão real + defesa inflada. Vulnerabilidades opostas.
 
-#### O Body Sniper da Divisão
+#### Ataque ao Corpo como Marca
 
-| Métrica | Ranking APM Ajustado | Interpretação |
+| Métrica | Ranking Ajustado | Interpretação |
 |---------|---------------------|---------------|
-| % golpes no corpo | Top 6% | Ataque ao corpo elite |
-| % golpes nas pernas | Bottom 9% | Quase não chuta pernas |
-| % golpes a distância | Bottom 13% | Menos dependente de distância pura |
-| % golpes no clinch | Top 13% | Trabalha clinch acima da média |
+| % golpes no corpo | Entre os 6% melhores | Ataque ao corpo elite |
+| % golpes nas pernas | Entre os 9% piores | Quase não chuta pernas |
+| % golpes a distância | Entre os 13% piores | Menos dependente de distância pura |
+| % golpes no clinch | Entre os 13% melhores | Trabalha clinch acima da média |
 
-- Top 6% em ataque ao corpo, confirmado como anomalia em 3 lutas: Roberts (4x esperado), Emeev (3.2x), Holland (2.7x).
-- Corpo top 6% + pernas bottom 9%: mapa de alvos é cabeça + corpo, quase zero pernas. Inverso dos strikers que usam leg kicks como fundação.
-- Clinch top 13%: opera em distância média. Precisão alta possivelmente ligada a golpear de mais perto.
+- Entre os 6% melhores em ataque ao corpo, confirmado como desvio significativo em 3 lutas: Roberts (4x esperado), Emeev (3.2x), Holland (2.7x).
+- Corpo entre os 6% melhores + pernas entre os 9% piores: mapa de alvos é cabeça + corpo, quase zero pernas. Inverso dos strikers que usam o chute baixo como base do jogo.
+- Clinch entre os 13% melhores: atua bem em média-curta. A precisão alta pode estar ligada a golpear de mais perto.
 
-#### O Controlador que Nunca Controla
+#### Potencial de Controle Pouco Usado
 
-| Métrica | Ranking APM | Valor Bruto | Interpretação |
+| Métrica | Ranking Ajustado | Valor Bruto | Interpretação |
 |---------|-------------|-------------|---------------|
-| % controle de luta | Top 2% | 5% | Potencial máximo, uso mínimo |
-| % luta combatida | Top 2% | 63% | Luta a luta inteira |
-| Tempo de luta | Top 4% | 699s média | Tendência a lutas longas |
+| % controle de luta | Entre os 2% melhores | 5% | Potencial máximo, uso mínimo |
+| % do tempo de luta utilizado | Entre os 2% melhores | 63% | Luta a luta inteira |
+| Tempo de luta | Entre os 4% melhores | 699s média | Tendência a lutas longas |
 
-- Coeficiente de controle top 2% (segundo mais alto entre 84 meio-médios), mas controle real de apenas 5%. Potencial não utilizado porque o striking resolve antes.
-- % luta combatida top 2%: usa 63% do tempo disponível (vs 50% da divisão). Diferente de Prates, ocupa o octógono por mais tempo mantendo eficiência.
+- Tendência de controle entre os 2% melhores (segundo mais alto entre 84 meio-médios), mas controle real de apenas 5%. Potencial não utilizado porque o striking resolve antes.
+- % do tempo de luta utilizado entre os 2% melhores: usa 63% do tempo disponível (vs 50% da divisão). Diferente de Prates, ocupa o octógono por mais tempo mantendo eficiência.
 
-#### Discovery V6: Desempenhos Ajustados por Qualidade do Oponente
+#### Modelo Atualizado: Desempenhos Ajustados por Qualidade do Oponente
 
-Pipeline Discovery V6 (Bayesian LOO + PageRank iterativo + Empirical Rarity) aplicado a Della Maddalena.
+Modelo estatístico atualizado que mede cada performance considerando a qualidade do oponente, aplicado a Della Maddalena.
 
-**Top 5 performances positivas mais extraordinarias (Discovery Score):**
+**Top 4 performances positivas mais extraordinárias (índice de relevância):**
 
-| D Score | Metrica | Oponente | Observado | Esperado | O que significa |
+| Relevância | Metrica | Oponente | Observado | Esperado | O que significa |
 |---------|---------|----------|-----------|----------|----------------|
-| 5.55 | Sub/min | Randy Brown | 0.45 | 0.26 | Unica luta com tentativas de finalizacao relevantes — e venceu por GnP |
-| 4.87 | Tempo luta | Islam Makhachev | 1500s | 942s | Sobreviveu 25 min contra o maior dominador do UFC — resiliencia pura |
-| 4.64 | Golpes sig./min | Kevin Holland | 7.0 | 3.4 | Volume 2x acima do esperado contra oponente com defesa PageRank 1.24x |
-| 4.52 | KD/min | Ramazan Emeev | 0.39 | 0.21 | KD contra oponente com defesa de KD 2.44x acima da media (PageRank) |
+| 5.55 | Sub/min | Randy Brown | 0.45 | 0.26 | Unica luta com tentativas de finalizacao relevantes — venceu por GnP |
+| 4.64 | Golpes sig./min | Kevin Holland | 7.0 | 3.4 | Volume 2x acima do esperado contra oponente com defesa 24% acima da média |
+| 4.52 | KD/min | Ramazan Emeev | 0.39 | 0.21 | KD contra oponente com defesa de KD 2.44x acima da média |
 | 4.24 | KD/min | Randy Brown | 0.45 | 0.16 | KD rapido contra oponente com historico defensivo solido |
 
-**Insight chave:** KD contra Emeev (D=4.52) -- PageRank defensivo do Emeev 2.44x acima da media. JDM conseguiu 1 KD em 2.5 min e nocauteou. Poder de KD ofensivo posicionado como top 13% da divisao (Bradley-Terry/Rasch), abaixo de Prates (top 0.3%). Poder dele vem de volume e precisao, nao de impacto puro.
+**Insight chave:** KD contra Emeev (relevância 4.52) -- defesa de KD do Emeev 2.44x acima da média. JDM conseguiu 1 KD em 2.5 min e nocauteou. Poder de KD ofensivo posicionado entre os 13% melhores da divisão (modelos de comparação par-a-par), abaixo de Prates (melhor que 99.7% da divisão). Poder dele vem de volume e precisão, não de impacto puro.
 
-**Top 5 negativos REAIS (excluindo falsos negativos de KO rapido):**
+**Top 5 piores performances reais (excluindo lutas que acabaram rápido em KO):**
 
-| D Score | Metrica | Oponente | Observado | Esperado | O que significa |
+| Relevância | Metrica | Oponente | Observado | Esperado | O que significa |
 |---------|---------|----------|-----------|----------|----------------|
-| -4.92 | % perna | Pete Rodriguez | 0% | 16% | Zero chutes nas pernas — confirma que nao faz parte do jogo dele |
-| -2.98 | Controle | Pete Rodriguez | 1% | 19% | Sem trabalho de chao mesmo dominando |
+| -4.92 | % perna | Pete Rodriguez | 0% | 16% | Zero chutes nas pernas — reforça que esse golpe quase não entra no jogo dele |
+| -2.98 | Controle | Pete Rodriguez | 1% | 19% | Sem trabalho de chão mesmo dominando |
 | -2.84 | Saldo quedas | Gilbert Burns | -0.51 | -0.10 | Burns derrubou pesado — 7 TDs em 11 tentativas |
-| -2.80 | % distancia | Randy Brown | 36% | 75% | Lutou maioria no clinch, nao na distancia — adaptacao tatica |
-| -2.62 | % cabeca | Islam Makhachev | 56% | 63% | Pouco acesso a cabeca com pressao de grappling constante |
+| -2.80 | % distância | Randy Brown | 36% | 75% | Lutou maioria no clinch, não na distância — adaptação tática |
+| -2.62 | % cabeça | Islam Makhachev | 56% | 63% | Pouco acesso à cabeça com pressão de grappling constante |
 
-Padrao negativo: nao chuta pernas (bottom 9% APM, D=-4.92), nao controla no chao, saldo de quedas desaba contra grapplers de elite. Diferenca em relacao a Prates: tem plano B de volume e decisao (metade das vitorias UFC).
+Padrão negativo: não chuta pernas (entre os 9% piores quando ajustado, relevância -4.92), não controla no chão, saldo de quedas desaba contra grapplers de elite. Diferença em relação a Prates: tem plano B de volume e decisão (metade das vitórias UFC).
 
 ---
 
@@ -1041,16 +1003,16 @@ Lutas onde Della Maddalena agiu completamente fora do padrão.
 | Luta | Métrica | O que aconteceu | Desvio |
 |------|---------|----------------|--------|
 | vs Pete Rodriguez (2022) | Volume sig./min | 14.4/min vs média 8.8/min | +2.1x acima |
-| vs Pete Rodriguez (2022) | Tentativas distância/min | 26.1/min vs esperado 7.4/min | +3.7x acima (APM) |
-| vs Danny Roberts (2022) | Golpes corpo/min | 4.7/min vs esperado 1.2/min | +3.3x acima (APM) |
-| vs Randy Brown (2023) | Tentativas de submissão | 0.45/min vs esperado 0.04/min | +2.9x acima (APM) |
-| vs Burns (2024) | Saldo de quedas | -0.51/min vs esperado 0.00/min | -1.9x abaixo (APM) |
+| vs Pete Rodriguez (2022) | Tentativas distância/min | 26.1/min vs esperado 7.4/min | +3.7x acima (ajustado) |
+| vs Danny Roberts (2022) | Golpes corpo/min | 4.7/min vs esperado 1.2/min | +3.3x acima (ajustado) |
+| vs Randy Brown (2023) | Tentativas de submissão | 0.45/min vs esperado 0.04/min | +2.9x acima (ajustado) |
+| vs Burns (2024) | Saldo de quedas | -0.51/min vs esperado 0.00/min | -1.9x abaixo (ajustado) |
 
 **O que isso revela:**
 
-- A luta contra Pete Rodriguez foi uma explosão estatística — volume 3.7x acima do esperado pelo modelo APM, quase tudo a distância. É a maior anomalia positiva de volume de striking dele em qualquer luta.
-- Contra Danny Roberts, o ataque ao corpo foi 3.3x acima do esperado — consistente com o perfil APM de body sniper. Nessa mesma luta, a defesa de striking foi 85% (z=+2.22 no APM), mostrando que quando o plano de corpo funciona, a defesa sobe junto.
-- A tentativa de submissão contra Randy Brown (z=+2.9) é a única vez que ele desviou significativamente para o grappling ofensivo. Obteve a finalização. Pode indicar um recurso disponível mas raramente ativado.
+- Pete Rodriguez: volume 3.7x acima do esperado após ajuste, quase tudo a distância. Maior desvio positivo de volume de striking.
+- Danny Roberts: corpo 3.3x acima do esperado, consistente com o padrão forte de ataque ao corpo dele. Defesa de striking nessa luta: 85%, bem acima do padrão habitual.
+- Randy Brown: submissão com desvio alto -- único desvio significativo para grappling ofensivo. Recurso disponível mas raramente ativado.
 
 ---
 
@@ -1059,25 +1021,43 @@ Lutas onde Della Maddalena agiu completamente fora do padrão.
 
 Métricas que sozinhas não chamam atenção, mas juntas formam um padrão.
 
-- **Reversões bottom 4% (APM) + defesa de queda que oscila de 0% a 85%:** Quando é derrubado, NÃO consegue reverter posição. A defesa de queda é binária — ou funciona antes de ir ao chão, ou é game over. Contra Burns (36% def TD, 7 quedas sofridas) ele venceu porque ainda conseguia golpear em pé entre as quedas. Contra Islam (0% def TD, 4 quedas), não teve nem isso.
+- **Reversões entre os 4% piores (quando ajustado) + defesa de queda binária (0% a 85%):** Não reverte posição quando derrubado. Defesa de queda funciona antes do chão ou não funciona -- sem meio-termo. Contra Burns, compensou com striking entre as quedas. Contra Islam, não teve essa chance.
 
-- **Volume total top 10% (APM) + knockdowns top 13% (bom, não elite):** O volume dele é genuinamente alto, mas o poder de nocaute ajustado é bom sem ser excepcional. Ele desgasta mais do que nocauteia — o que explica por que metade das lutas vai pra decisão, diferente de finishers puros.
+- **Volume entre os 10% melhores (quando ajustado) + knockdowns entre os 13% melhores:** Volume alto, mas poder de nocaute bom sem ser elite quando se desconta o efeito dos oponentes. Desgasta mais do que nocauteia, explicando as decisões.
 
-- **Precisão real top 7% + corpo top 6% + clinch top 13% + distância bottom 13%:** O pacote completo sugere um lutador que opera em distância média, acerta com precisão elite, e usa o corpo como alvo primário junto com a cabeça. A faixa de distância dele é curta — ele quer trocar de perto, não de longe. Isso pode ser explorado por lutadores com bom jab e footwork que mantenham distância.
+- **Precisão entre os 7% melhores + corpo entre os 6% melhores + clinch entre os 13% melhores + distância entre os 13% piores:** Atua melhor em média-curta, com precisão de elite. Essa faixa pode ser explorada por lutadores com jab e footwork que consigam manter distância.
 
-- **% luta combatida top 2% + tempo de luta top 4%:** Enquanto a média da divisão usa 50% do tempo disponível, ele usa 63%. Isso significa que ele está constantemente ativo — e que sua precisão alta (top 7%) é mantida mesmo sob volume alto. Raro e indicativo de cardio técnico excepcional.
+- **% do tempo de luta utilizado entre os 2% melhores + tempo entre os 4% mais longos:** Precisão alta mantida sob volume alto ao longo de 63% do tempo disponível. Cardio técnico como diferencial.
 
 ---
 
 <a name="jdm-visao-do-analista"></a>
 ### Visão do Analista
 
-- A defesa de striking de Della Maddalena é uma das maiores ilusões da divisão. Os 63% brutos colocam no top 5%, mas quando o modelo ajusta pela qualidade dos oponentes, ele cai para bottom 14%. Os caras que ele enfrentou simplesmente não conectam bem em ninguém. Se cruzar com alguém de precisão genuinamente alta — um Leon Edwards, um Sean Brady — a defesa pode não segurar o que os números sugerem.
+- Conforme seção do modelo ajustado: defesa de striking inflada (63% bruto, entre os 14% piores quando ajustado) e precisão real (entre os 7% melhores quando ajustado). Prates, com precisão real quando ajustada e potência de knockdown fora da curva no UFC, é o tipo de oponente que testa diretamente a fragilidade defensiva de JDM.
 
-- A precisão dele, por outro lado, é das mais legítimas do UFC. Top 7% ajustado, confirmado em 9 lutas com oponentes variados. Isso não é inflação — é habilidade real. Quando ele tem espaço pra golpear, acerta mais do que quase qualquer um na divisão.
+- Prioridade para a equipe do Prates: proteção de corpo. Ataque ao corpo forte e recorrente, confirmado em 3 lutas com desvios claros acima do padrão. Ignorar esse caminho aqui seria erro de leitura do adversário.
 
-- O perfil de body sniper (top 6% no corpo, bottom 9% nas pernas) é uma assinatura tática que nenhum relatório anterior destaca com clareza. Em três lutas diferentes o ataque ao corpo foi o dobro ou mais do que o modelo esperava. Treinadores que montarem defesa contra ele sem priorizar proteção de corpo podem estar olhando os dados errados.
+- Reversões entre os 4% piores e defesa de queda binária são a vulnerabilidade principal, mas Prates não tem wrestling ofensivo para explorar isso (entre os 5% piores em tentativas de queda). Esse gap de JDM é mais relevante contra grapplers.
 
-- A incapacidade de reverter posições no chão (bottom 4% ajustado) é o calcanhar de Aquiles silencioso. A defesa de queda oscila radicalmente — 85% num dia, 0% no outro. Quando não segura o takedown, não tem plano B no solo. Esse gap pode não aparecer contra strikers puros, mas contra qualquer top 5 com grappling real, o cenário Islam se repete.
+- JDM opera como lutador de volume com precisão alta, mas também tem poder para interromper quando encontra espaço. O diferencial mais estável dele é sustentar ritmo e precisão ao longo da luta. A questão para esta luta é se Prates consegue nocautear antes que esse ritmo se imponha, algo que costuma aparecer a partir do R2-R3.
 
-- Ele não é finisher de primeira oportunidade, é um moedor de alta precisão. O fato de lutar 63% do tempo disponível (top 2%) com precisão mantida acima de 50% durante toda a luta sugere que o cardio técnico é o verdadeiro diferencial. A questão é se esse motor funciona quando alguém desliga o acesso ao striking — como já aconteceu uma vez.
+---
+
+## Capítulo 7: Resumo Final — Melhores Ações para o Prates
+
+Em ordem de importância, este é o caminho mais consistente para o Prates vencer segundo o conjunto dos dados:
+
+1. **Tratar os rounds 1 e 2 como janela principal de vitória.** É onde o poder de knockdown e a taxa de interrupção do Prates mais aparecem, antes de o ritmo longo de volume e precisão do Jack ganhar corpo.
+
+2. **Proteger o corpo como prioridade defensiva.** O ataque ao corpo do Jack não é detalhe; é um padrão recorrente e um dos melhores caminhos técnicos dele para construir a luta.
+
+3. **Variar os alvos desde cedo, em vez de caçar só a cabeça.** As melhores vitórias do Prates aparecem quando ele distribui melhor os golpes e dificulta a leitura do adversário.
+
+4. **Não aceitar uma luta limpa em média-curta, com trocas longas e ritmo contínuo.** Essa é a faixa em que o Jack tende a combinar melhor precisão com volume. O ideal para o Prates é entrar para causar dano e sair, sem ficar preso na sequência do outro lado.
+
+5. **Ganhar a luta no impacto, não na contagem.** Os dados do Prates premiam golpes decisivos; os do Jack premiam acúmulo. Quanto mais a luta virar disputa de volume puro, mais o cenário tende a favorecer o australiano.
+
+6. **Usar clinch e grappling apenas como recurso pontual de quebra de ritmo.** Há brechas defensivas do Jack nesse setor, mas o histórico do Prates não sustenta um plano de wrestling ofensivo como rota principal.
+
+7. **Se a luta alongar, trocar urgência por disciplina.** Nesse cenário, o mais importante passa a ser negar o acúmulo de volume do Jack, manter seleção de golpes e não entregar a luta em trocas contínuas.
